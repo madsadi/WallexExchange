@@ -34,11 +34,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/app/trade/[...coin].js"
-    ],
-    "/market/[...coin]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/market/[...coin].js"
     ]
   },
   "ampFirstPages": []
