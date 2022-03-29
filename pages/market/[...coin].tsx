@@ -86,6 +86,7 @@ export default function Single() {
                 <MarketOverview data={data}/>
             </Container>
             <Footer/>
+
         </>
     )
 }
